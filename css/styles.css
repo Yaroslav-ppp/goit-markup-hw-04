@@ -1,5 +1,5 @@
 :root {
-  --advanages-icon-bgn: #F5F4FA
+  --advantages-icon-bgn: #F5F4FA;
   --main-background: #e5e5e5;
   --dark-background: #2f303a;
   --white-color: #ffffff;
@@ -225,7 +225,7 @@ img {
   width: 270px;
   height: 120px;
   padding: 25px 0;
-  background: var(--advanages-icon-bgn);
+  background: var(--advantages-icon-bgn);
   border-radius: 4px;
 }
 .item {
